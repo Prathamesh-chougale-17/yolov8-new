@@ -1,0 +1,10 @@
+path: D:\study\yolov8\data
+
+train: images\train
+
+val: images\label
+
+#CLASSES
+
+names: 
+  0: vehicle
